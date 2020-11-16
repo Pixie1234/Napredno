@@ -9,5 +9,5 @@ User u = new User()<br>
 u.talk()->povik na obicen metod<br>
 User.findInList -> povik na static method <br> 
 
-Wrapper klasi -> kositata za da moze da povikuvame i metodi Integer a ne samo int za promensliva da go koristeme <br>
+Wrapper klasi -> korisno za da moze da povikuvame i metodi Integer a ne samo int za promensliva da go koristeme <br>
 https://www.youtube.com/watch?v=IM3c6eI6lO8<br>
