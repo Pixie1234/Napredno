@@ -14,3 +14,6 @@ User.findInList -> povik na static method <br>
 <h3>2.Wrapper klasi</h3>
 -> korisno za da moze da povikuvame i metodi Integer a ne samo int za promensliva da go koristeme <br>
 https://www.youtube.com/watch?v=IM3c6eI6lO8<br>
+
+<h3>2. .equals vs == </h3>
+https://www.youtube.com/watch?v=9CVcmxYWm5U <br>
