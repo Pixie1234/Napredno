@@ -17,3 +17,10 @@ https://www.youtube.com/watch?v=IM3c6eI6lO8<br>
 
 <h3>3. .equals vs == </h3>
 https://www.youtube.com/watch?v=9CVcmxYWm5U <br>
+______________________________________________________________________________________________________________________________________
+
+Anonimna klasa - da kreirame objekt (instanca) od nekoja apstraktna klasa ili od nekoj interfejs bez voopshto da kreirame klasa<br>
+Lambda se pravi samo so funkciski interfejs (interfejs so 1 metod)<br>
+Interfejs so 2 metodi ne mozhe da bide lambda izraz no mozhe da e anonimna klasa<br>
+Ova se koristi sekogas koga imame apstraktna klasa ili inerfejs i ne sakash da pravish klasi sto kje nasleduvat 
+Ova ne voveduva vo Funkcionalno Programiranje
